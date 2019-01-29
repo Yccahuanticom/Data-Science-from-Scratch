@@ -1,0 +1,33 @@
+
+=======================================
+
+Subir archivos del Proyecto a GitHub.com
+
+By: Yaneth Ccahuantico Mendoza
+=======================================
+
+1. Los archivos están todos dentro de una carpeta
+2. En la carpeta 'Python Data Science from Scratch'
+
+En la carpeta: levantamos "Git Bash"
+
+
+3. Git:
+   
+
+- git init
+   
+- git config --global user.email "samy1333@gmail.com"
+   
+- git config --global user.name "DCYane"
+   
+- git add .
+   
+- git commit -m "Códigos Python del Libro Data Science from Scratch First Prin"
+   
+- git remote add origin https://github.com/DCYane/Data-Science-from-Scratch.git
+   
+- git push -u origin master
+
+
+
